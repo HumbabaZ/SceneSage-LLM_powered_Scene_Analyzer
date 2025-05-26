@@ -67,13 +67,6 @@ Options:
   --output FILE         Output JSON file path
 ```
 
-### Cache Management
-
-The tool automatically manages context caching:
-- Creates cache on first run
-- Stores cache reference in .env file
-- Reuses cache for subsequent requests
-- Handles cache expiration automatically
 
 ## Output Format
 
