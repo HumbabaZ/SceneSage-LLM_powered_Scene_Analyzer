@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+plan9_sections/
+300clip.srt
+example.srt
+
